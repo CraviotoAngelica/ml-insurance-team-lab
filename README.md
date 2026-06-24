@@ -7,7 +7,7 @@ Team exercises on Machine Learning applied to insurance — premium simulation, 
 
 ...
 
-...
+Angelica Guadalupe Cravioto Perez
 
 Arturo Cortes Islas
 
